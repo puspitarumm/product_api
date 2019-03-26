@@ -1,0 +1,124 @@
+{
+"products" :
+[{
+  "id": 1,
+  "judul": "Iced Tea - Lemon, 340ml",
+  "harga": "$4.75"
+}, {
+  "id": 2,
+  "judul": "Cheese - Taleggio D.o.p.",
+  "harga": "$5.99"
+}, {
+  "id": 3,
+  "judul": "Mountain Dew",
+  "harga": "$7.25"
+}, {
+  "id": 4,
+  "judul": "Cup - 8oz Coffee Perforated",
+  "harga": "$6.74"
+}, {
+  "id": 5,
+  "judul": "Appetizer - Tarragon Chicken",
+  "harga": "$4.46"
+}, {
+  "id": 6,
+  "judul": "Butter - Unsalted",
+  "harga": "$2.95"
+}, {
+  "id": 7,
+  "judul": "Lamb - Whole Head Off,nz",
+  "harga": "$4.58"
+}, {
+  "id": 8,
+  "judul": "Trout - Rainbow, Frozen",
+  "harga": "$6.06"
+}, {
+  "id": 9,
+  "judul": "Lentils - Red, Dry",
+  "harga": "$1.55"
+}, {
+  "id": 10,
+  "judul": "Marzipan 50/50",
+  "harga": "$7.51"
+}, {
+  "id": 11,
+  "judul": "Tart Shells - Sweet, 2",
+  "harga": "$9.05"
+}, {
+  "id": 12,
+  "judul": "Schnappes - Peach, Walkers",
+  "harga": "$4.96"
+}, {
+  "id": 13,
+  "judul": "Soup - Campbells, Minestrone",
+  "harga": "$4.64"
+}, {
+  "id": 14,
+  "judul": "Wine - Tio Pepe Sherry Fino",
+  "harga": "$6.85"
+}, {
+  "id": 15,
+  "judul": "Bagelers - Cinn / Brown",
+  "harga": "$8.38"
+}, {
+  "id": 16,
+  "judul": "Wine - White, Pelee Island",
+  "harga": "$2.37"
+}, {
+  "id": 17,
+  "judul": "Mustard - Seed",
+  "harga": "$2.07"
+}, {
+  "id": 18,
+  "judul": "Celery",
+  "harga": "$1.77"
+}, {
+  "id": 19,
+  "judul": "Carbonated Water - White Grape",
+  "harga": "$9.70"
+}, {
+  "id": 20,
+  "judul": "Breadfruit",
+  "harga": "$8.12"
+}, {
+  "id": 21,
+  "judul": "Beans - Butter Lrg Lima",
+  "harga": "$8.48"
+}, {
+  "id": 22,
+  "judul": "Hold Up Tool Storage Rack",
+  "harga": "$0.70"
+}, {
+  "id": 23,
+  "judul": "Pomegranates",
+  "harga": "$2.75"
+}, {
+  "id": 24,
+  "judul": "Petit Baguette",
+  "harga": "$3.47"
+}, {
+  "id": 25,
+  "judul": "Laundry - Bag Cloth",
+  "harga": "$2.72"
+}, {
+  "id": 26,
+  "judul": "Carbonated Water - White Grape",
+  "harga": "$3.98"
+}, {
+  "id": 27,
+  "judul": "Juice - Orange, Concentrate",
+  "harga": "$9.28"
+}, {
+  "id": 28,
+  "judul": "Tofu - Firm",
+  "harga": "$3.18"
+}, {
+  "id": 29,
+  "judul": "Beef - Montreal Smoked Brisket",
+  "harga": "$6.97"
+}, {
+  "id": 30,
+  "judul": "Persimmons",
+  "harga": "$6.94"
+}]
+}
